@@ -21,7 +21,7 @@ import featureeight from '../Assests/Features/featureeight.svg'
 import featurenine from '../Assests/Features/featurenine.svg'
 
 import ug from '../Assests/ug.png'
-import logo from '../Assests/NavBar/logo.svg'
+import logo from '../Assests/Navbar/logo.svg'
 import form from '../Assests/Fully/Form.svg'
 
 import batch from '../Assests/Certificate/batch.png'
