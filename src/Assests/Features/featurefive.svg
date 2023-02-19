@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>5-Icons/Process Management/z-Features/Visual Process Design</title>
+    <desc>Created with Sketch.</desc>
+    <g id="5-Icons/Process-Management/z-Features/Visual-Process-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Process-Visual-Process-Design">
+            <path d="M33.2964845,15.4251672 C37.2878281,19.2022781 38.9322948,25.8181861 37.4778921,31.6707201 C36.0234894,37.5312059 31.4784811,42.6283178 25.7930889,45.1569941 C20.0994331,47.6856705 13.2653933,47.6379596 8.59643023,44.8548253 C3.92746715,42.0796427 1.42358076,36.5690366 0.448469888,31.1140932 C-0.534904637,25.651198 0.0104963601,20.2360137 2.96888358,16.6895054 C5.91900716,13.1350452 11.282117,11.4492609 17.1327822,11.0755257 C22.9751838,10.7017905 29.3051408,11.6480562 33.2964845,15.4251672 Z" id="Path-" fill="#93E9F5"></path>
+            <polygon id="Path" stroke="#006C7A" stroke-width="3" stroke-linecap="square" transform="translate(20.357143, 32.357143) scale(1, -1) translate(-20.357143, -32.357143) " points="12 32.3571429 20.3571429 27.2142857 28.7142857 32.3571429 20.3571429 37.5"></polygon>
+            <rect id="Rectangle" stroke="#006C7A" stroke-width="3" stroke-linecap="square" transform="translate(39.642857, 19.500000) scale(1, -1) translate(-39.642857, -19.500000) " x="32.5714286" y="15" width="14.1428571" height="9"></rect>
+            <rect id="Rectangle" stroke="#006C7A" stroke-width="3" stroke-linecap="square" transform="translate(20.357143, 6.000000) scale(1, -1) translate(-20.357143, -6.000000) " x="12.6428571" y="1.5" width="15.4285714" height="9" rx="4.5"></rect>
+            <path d="M20.3571429,10.5 L20.3571429,27.2142857" id="Path" stroke="#006C7A" stroke-width="3" stroke-linecap="square" transform="translate(20.357143, 18.857143) scale(1, -1) translate(-20.357143, -18.857143) "></path>
+            <polyline id="Path" stroke="#006C7A" stroke-width="3" stroke-linecap="square" transform="translate(34.178571, 30.107143) scale(1, -1) translate(-34.178571, -30.107143) " points="28.7142857 27.8571429 39.6428571 27.8571429 39.6428571 32.3571429"></polyline>
+            <polyline id="Path" stroke="#006C7A" stroke-width="3" stroke-linecap="square" transform="translate(33.857143, 8.571429) scale(1, -1) translate(-33.857143, -8.571429) " points="28.0714286 11.1428571 39.6428571 11.1428571 39.6428571 6"></polyline>
+        </g>
+    </g>
+</svg>

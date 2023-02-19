@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>5-Icons/Process Management/z-Features/Dashboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="5-Icons/Process-Management/z-Features/Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard">
+            <path d="M33.2964845,15.4251672 C37.2878281,19.2022781 38.9322948,25.8181861 37.4778921,31.6707201 C36.0234894,37.5312059 31.4784811,42.6283178 25.7930889,45.1569941 C20.0994331,47.6856705 13.2653933,47.6379596 8.59643023,44.8548253 C3.92746715,42.0796427 1.42358076,36.5690366 0.448469888,31.1140932 C-0.534904637,25.651198 0.0104963601,20.2360137 2.96888358,16.6895054 C5.91900716,13.1350452 11.282117,11.4492609 17.1327822,11.0755257 C22.9751838,10.7017905 29.3051408,11.6480562 33.2964845,15.4251672 Z" id="Path-" fill="#D4CCFF"></path>
+            <path d="M14.2785086,21.5037874 L16.6766351,21.5037874" id="Stroke-1" stroke="#433485" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M28.0677358,7.71456022 L28.0677358,10.1126867" id="Stroke-2" stroke="#433485" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M37.8183381,11.7537846 L36.1228627,13.44926" id="Stroke-3" stroke="#433485" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M41.8569629,21.5037874 L39.4588365,21.5037874" id="Stroke-4" stroke="#433485" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M25.947732,19.3837836 L18.47517,11.9112216" id="Stroke-5" stroke="#433485" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M28.0671362,18.5061293 C29.7230426,18.5061293 31.0647943,19.8478811 31.0647943,21.5037874 C31.0647943,23.1596937 29.7230426,24.5014455 28.0671362,24.5014455 C26.4112299,24.5014455 25.0694781,23.1596937 25.0694781,21.5037874 C25.0694781,19.8478811 26.4112299,18.5061293 28.0671362,18.5061293 Z" id="Stroke-6" stroke="#433485" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M43.2791119,31.0962932 C48.5795709,22.6950567 46.0657348,11.588134 37.6656974,6.28767497 C29.2644608,0.986616424 18.1575381,3.50045249 12.8564796,11.9010895 C9.15736948,17.7651082 9.15736948,25.232874 12.8564796,31.0962932 L25.9478519,31.0962932 L43.2791119,31.0962932 Z" id="Stroke-8" stroke="#433485" stroke-width="3" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

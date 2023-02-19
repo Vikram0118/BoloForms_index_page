@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>5-Icons/Process Management/z-Features/Dynamic Business Rules</title>
+    <desc>Created with Sketch.</desc>
+    <g id="5-Icons/Process-Management/z-Features/Dynamic-Business-Rules" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dynamic-Business-Rules">
+            <path d="M33.2964845,16.4251672 C37.2878281,20.2022781 38.9322948,26.8181861 37.4778921,32.6707201 C36.0234894,38.5312059 31.4784811,43.6283178 25.7930889,46.1569941 C20.0994331,48.6856705 13.2653933,48.6379596 8.59643023,45.8548253 C3.92746715,43.0796427 1.42358076,37.5690366 0.448469888,32.1140932 C-0.534904637,26.651198 0.0104963601,21.2360137 2.96888358,17.6895054 C5.91900716,14.1350452 11.282117,12.4492609 17.1327822,12.0755257 C22.9751838,11.7017905 29.3051408,12.6480562 33.2964845,16.4251672 Z" id="Path-Copy-6" fill="#B2D4FF"></path>
+            <path d="M25,6.42857143 L44.4285714,6.42857143" id="Path" stroke="#0D48A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"></path>
+            <path d="M25,19 L44.4285714,19" id="Path" stroke="#0D48A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"></path>
+            <path d="M25,31.5714286 L44.4285714,31.5714286" id="Path" stroke="#0D48A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"></path>
+            <rect id="Rectangle" stroke="#0D48A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel" x="13" y="3" width="6.85714286" height="6.85714286" rx="1"></rect>
+            <rect id="Rectangle" stroke="#0D48A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel" x="13" y="28.1428571" width="6.85714286" height="6.85714286" rx="1"></rect>
+            <path d="M13,19 L15.051815,21.051815 C15.4423393,21.4423393 16.0755043,21.4423393 16.4660286,21.051815 C16.4966105,21.0212331 16.5251762,20.9886995 16.5515458,20.954419 L21.5714286,14.4285714" id="Path" stroke="#0D48A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="bevel"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>5-Icons/Process Management/z-Features/Agile Deployment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="5-Icons/Process-Management/z-Features/Agile-Deployment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M34.2964845,16.4251672 C38.2878281,20.2022781 39.9322948,26.8181861 38.4778921,32.6707201 C37.0234894,38.5312059 32.4784811,43.6283178 26.7930889,46.1569941 C21.0994331,48.6856705 14.2653933,48.6379596 9.59643023,45.8548253 C4.92746715,43.0796427 2.42358076,37.5690366 1.44846989,32.1140932 C0.465095363,26.651198 1.01049636,21.2360137 3.96888358,17.6895054 C6.91900716,14.1350452 12.282117,12.4492609 18.1327822,12.0755257 C23.9751838,11.7017905 30.3051408,12.6480562 34.2964845,16.4251672 Z" id="Path-" fill="#BEEDC0"></path>
+            <path d="M33.2648276,6.90482759 L42.0593103,15.6987586" id="Path" stroke="#2D6B30" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M29.8165517,8.8182069 C24.3432047,6.43942809 17.9556936,8.53051549 14.9486897,13.6855172 L20.017931,18.7547586" id="Path" stroke="#2D6B30" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40.1525517,19.1172414 C42.5759753,24.6012037 40.4928876,31.0305102 35.313931,34.0513103 L30.2237241,28.9611034" id="Path" stroke="#2D6B30" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M26.1773793,31.1878621 L17.8121379,22.8226207 C17.8121379,22.8226207 24.9575172,5.04827586 45,4 C43.8673103,23.9553103 26.1773793,31.1878621 26.1773793,31.1878621 Z" id="Path" stroke="#2D6B30" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval" stroke="#2D6B30" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="30.6551724" cy="18.3448276" r="3.31034483"></circle>
+            <path d="M15.0728276,29.2452414 C16.3657071,27.9523618 18.4618791,27.9523618 19.7547586,29.2452414 C21.0476382,30.5381209 21.0476382,32.6342929 19.7547586,33.9271724 C18.0995862,35.5823448 13,36 13,36 C13,36 13.4176552,30.9004138 15.0728276,29.2452414 Z" id="Path" stroke="#2D6B30" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

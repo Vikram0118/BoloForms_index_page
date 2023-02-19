@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>5-Icons/Process Management/z-Features/Intuitive User Interface</title>
+    <desc>Created with Sketch.</desc>
+    <g id="5-Icons/Process-Management/z-Features/Intuitive-User-Interface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dynamic-Case-Routing">
+            <path d="M33.2964845,16.4251672 C37.2878281,20.2022781 38.9322948,26.8181861 37.4778921,32.6707201 C36.0234894,38.5312059 31.4784811,43.6283178 25.7930889,46.1569941 C20.0994331,48.6856705 13.2653933,48.6379596 8.59643023,45.8548253 C3.92746715,43.0796427 1.42358076,37.5690366 0.448469888,32.1140932 C-0.534904637,26.651198 0.0104963601,21.2360137 2.96888358,17.6895054 C5.91900716,14.1350452 11.282117,12.4492609 17.1327822,12.0755257 C22.9751838,11.7017905 29.3051408,12.6480562 33.2964845,16.4251672 Z" id="Path-Copy-6" fill="#F2BFE2"></path>
+            <path d="M14,9.7953668 L45.6293436,9.7953668" id="Path" stroke="#7F1A5F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M18.9350064,16.5383175 L40.6418919,16.5383175" id="Path-Copy" stroke="#7F1A5F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M18.9350064,20.4919855 L40.6418919,20.4919855" id="Path-Copy-2" stroke="#7F1A5F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            <rect id="Rectangle" stroke="#7F1A5F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="14" y="3" width="31.6293436" height="27.3162513"></rect>
+            <circle id="Oval" fill="#7F1A5F" fill-rule="nonzero" cx="17.953668" cy="6.29472329" r="1.07827308"></circle>
+            <circle id="Oval" fill="#7F1A5F" fill-rule="nonzero" cx="22.2667603" cy="6.29472329" r="1.07827308"></circle>
+        </g>
+    </g>
+</svg>
